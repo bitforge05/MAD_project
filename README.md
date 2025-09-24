@@ -5,7 +5,7 @@ CollaborateHub: Idea Sharing & Project Collaboration Platform
 
 ⸻
 
-Aryan Rana 2025-B-XXXXXXXX
+Aryan Rana 2025-B-201112007
 
 ⸻
 
@@ -40,10 +40,8 @@ The primary audience includes students, developers, and hobbyists who want to sh
 
 Technology Stack
 	•	Frontend: React, JavaScript, HTML, CSS, possibly React Router and state management libraries
-	•	Backend (optional): Node.js/Express or Python/Flask for API endpoints and data handling
-	•	Database: Firebase or MongoDB for storing users, projects, comments, and votes
-	•	Notifications: Firebase Cloud Messaging or WebSocket-based system for real-time updates
-
+	•	Backend (optional): Node.js/Express or Python
+	•	Database: Mysql for storing users, projects, comments, and votes
 ⸻
 
 Expected Outcome
